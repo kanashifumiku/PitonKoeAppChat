@@ -2,7 +2,7 @@
 Program untuk berbagi pesan antar perangkat dalam satu jaringan yang sama menggunakan Python dengan cara yang SIGMA
 W.I.P
 
-Fitur
+## Fitur
 1. **Pesan Privat** (TO:target_id: pesan)
 2. **Broadcast** (ALL:pesan ke semua client)
 3. **RTT Measurement** (waktu respons dalam ms)
