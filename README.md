@@ -28,3 +28,10 @@ python Peladen.py
 ### 3. Jalankan Client (terminal lain, tiap device)
 python Klien.py
 
+### 4. Koneksi
+Pastikan setiap perangkat terhubung ke satu jaringan yang sama. Bebas mau via kabel / nirkabel. Internet? Gak perlu.
+
+Rencana Penambahan Fitur Selanjutnya...
+### 1. Penambahan fitur transfer file antar perangkat.
+### 2. Perbaikan UI/UX
+
