@@ -37,4 +37,4 @@ Pastikan setiap perangkat terhubung ke satu jaringan yang sama. Bebas mau via ka
 
 #
 2025 - Alpino, M./Kanashifumiku (Pinothorium Works)
-
+Proyek ini dibuat dengan tujuan untuk memenuhi persyaratan ujian.
