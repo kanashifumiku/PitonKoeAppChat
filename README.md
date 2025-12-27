@@ -38,6 +38,13 @@ Untuk uji coba menggunakan localhost, dapat menggunakan IP 127.0.0.1
 ### 1. Penambahan fitur transfer file antar perangkat.
 ### 2. Perbaikan UI/UX
 
+## Showcase
+<p align="center">
+  <img src="https://github.com/kanashifumiku/PesanKoeAppChat/blob/main/aset/Screenshot%20(9).png" alt="Alt text">
+  Tampilan Keseluruhan Program (Peladen/Server dan Pengguna/Client)
+</p>
+
+
 ## Kredit
 1. Muhammad Alpino (Lead Programmer)
 2. M Fathir Aulia
