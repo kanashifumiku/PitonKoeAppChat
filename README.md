@@ -43,6 +43,10 @@ Untuk uji coba menggunakan localhost, dapat menggunakan IP 127.0.0.1
   <img src="https://github.com/kanashifumiku/PesanKoeAppChat/blob/main/aset/Screenshot%20(9).png" alt="Alt text">
   Tampilan Keseluruhan Program (Peladen/Server dan Pengguna/Client)
 </p>
+<p align="center">
+  <img src='https://github.com/kanashifumiku/PesanKoeAppChat/blob/main/aset/Screenshot%20(1).png'>
+  Tampilan Program (Pengguna/Client) di Perangkat Berbeda Tapi Terkoneksi di Jaringan yang Sama
+
 
 
 ## Kredit
@@ -50,5 +54,8 @@ Untuk uji coba menggunakan localhost, dapat menggunakan IP 127.0.0.1
 2. M Fathir Aulia
 
 #
+<p align="center">
+  <img src='https://github.com/kanashifumiku/PesanKoeAppChat/blob/main/aset/PWxPOLSRI.png' width='50%'>
+</p>
 2025 - Alpino, M./Kanashifumiku (Pinothorium Works) <br>
 Proyek ini dibuat dengan tujuan untuk memenuhi persyaratan ujian Praktikum Komunikasi Data, Politeknik Negeri Sriwijaya
