@@ -19,7 +19,7 @@ W.I.P
 
 ## How To Use
 ### 1. Clone repo
-git clone https://github.com/kanashifumiku/PesanKoeAppChat.git
+git clone https://github.com/kanashifumiku/PesanKoeAppChat.git <br>
 cd PesanKoeAppChat
 
 ### 2. Jalankan Server (satu terminal)
@@ -31,10 +31,17 @@ python Klien.py
 ### 4. Koneksi
 Pastikan setiap perangkat terhubung ke satu jaringan yang sama. Bebas mau via kabel / nirkabel. Internet? Gak perlu.
 
+### 4.1 Tes via Localhost
+Untuk uji coba menggunakan localhost, dapat menggunakan IP 127.0.0.1
+
 ## Rencana Penambahan Fitur Selanjutnya...
 ### 1. Penambahan fitur transfer file antar perangkat.
 ### 2. Perbaikan UI/UX
 
+## Kredit
+1. Muhammad Alpino (Lead Programmer)
+2. M Fathir Aulia
+
 #
 2025 - Alpino, M./Kanashifumiku (Pinothorium Works) <br>
-Proyek ini dibuat dengan tujuan untuk memenuhi persyaratan ujian.
+Proyek ini dibuat dengan tujuan untuk memenuhi persyaratan ujian Praktikum Komunikasi Data, Politeknik Negeri Sriwijaya
